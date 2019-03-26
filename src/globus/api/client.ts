@@ -3,7 +3,7 @@ import CryptoJS = require('crypto-js');
 import {queryParams} from "../../utils";
 import {GlobusResponse} from "./models";
 
-const CLIENT_ID = 'a4b3ea61-d252-4fe2-9b49-9e7e69434367';
+const CLIENT_ID = '0bec0aaf-e4d2-458e-b126-60047a360a6d';
 const REDIRECT_URI = window.location.href;
 const SCOPES = 'openid email profile urn:globus:auth:scope:transfer.api.globus.org:all urn:globus:auth:scope:search.api.globus.org:all';
 
